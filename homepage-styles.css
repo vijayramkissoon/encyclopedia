@@ -1,0 +1,19 @@
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+button:hover {
+  text-align: center;
+  border-radius: 4px;
+}
+
+.buttons  {
+  margin: auto;
+  width: 10%;
+  border: 3px;
+  padding: 10px;
+}
